@@ -1,0 +1,5 @@
+<resources>
+    <item name="colorPrimary" type="color">#009688</item>
+    <item name="colorPrimaryDark" type="color">#00796B</item>
+    <item name="colorAccent" type="color">#FFC107</item>
+</resources>
